@@ -10,3 +10,4 @@
 # 使用說明
 ### 前往[release發布頁](https://github.com/x1ulan/zerojudge-extension/releases/tag/1.0)
 ### 解壓縮後至[chrome擴充套件](chrome://extensions)
+<a href="chrome://extensions">111</a>
