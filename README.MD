@@ -11,7 +11,6 @@
 3. ### open `developor mode`<sup><a href="#2" target=_self>2</a></sup>,
 <img src="images/gif2.gif" id=2 alt="2-open dev-mode"></img>
 
-4. ### open the folder you just unzip.
-<sup><a href="#3" target=_self>3</a></sup>,
+4. ### open the folder you just unzip<sup><a href="#3" target=_self>3</a></sup>.
 <img src="images/gif3.gif" id=3 alt="3-import"></img>
 
