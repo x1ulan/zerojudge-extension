@@ -1,6 +1,6 @@
 # Zerojudge Auto Copier
 [chinese version](md/README.MD)
-### this is a `chrome extension` which can `auto copy` the `input`and`output`on zerojudge<sup><a href="1" target=_self>1</a></sup>
+### this is a `chrome extension` which can `auto copy` the `input`and`output`on zerojudge<sup><a href="#1" target=_self>1</a></sup>
 ---
 
 
