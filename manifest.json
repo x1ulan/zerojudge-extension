@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Auto copy test data to clipboard on zerojudge.tw",
   "icons":{
-    "32":"icons/icon.ico"
+    "32":"images/icon.ico"
   },
   "content_scripts":[
     {
